@@ -1,4 +1,4 @@
-# WEEB.githu.io
+# WEEB.github.io
 </head>
 <body>
 <p>
