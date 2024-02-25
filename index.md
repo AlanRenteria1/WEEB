@@ -1,7 +1,5 @@
 # WEEB
-primerawb
-
-<h1>ALAN RENTERÍA SAAVEDRA- 183392</h1>
+#<h1>ALAN RENTERÍA SAAVEDRA- 183392</h1>
 </head>
 <body>
 <p>
