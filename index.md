@@ -14,7 +14,7 @@ ALAN RENTERÍA SAAVEDRA- 183392
 					<li><a href="">p2</li>
 					<li><a href="">p3</li>
 					<li><a href="Examen-practico.html">Examen primer parcial</a>
-						portafolio de evidencias
+
 <li><a href="Practica 1-Tablas.html">Practica 1: Tablas</a></li>
 				</ol>
 			<li>Parcial 2</li>
