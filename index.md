@@ -1,11 +1,7 @@
 # WEEB
 primerawb
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<h1>ALAN RENTERÍA SAAVEDRA- 183392</h1>
+
+<h1>ALAN RENTERÍA SAAVEDRA- 183392</h1>
 </head>
 <body>
 <p>
