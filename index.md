@@ -26,4 +26,4 @@ ALAN RENTERÍA SAAVEDRA- 183392
 #WEEB
 Alan rentería saavedra 183392
 portafolio de evidencias
-<a href="Practica 1-Tablas.html"><li>Practica 1: Tablas</li></a>
+<li><a href="Practica 1-Tablas.html">Practica 1: Tablas</a></li>
