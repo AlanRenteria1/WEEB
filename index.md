@@ -1,5 +1,4 @@
 # WEEB
-ALAN RENTERÍA SAAVEDRA- 183392
 </head>
 <body>
 <p>
