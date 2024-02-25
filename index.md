@@ -5,7 +5,6 @@ primerawb
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Index</title>
 	<h1>ALAN RENTERÍA SAAVEDRA- 183392</h1>
 </head>
 <body>
