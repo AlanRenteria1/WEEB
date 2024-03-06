@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Práctica 1 Form</title>
+	<h1 align="center">Venta en Línea</h1>
+</head>
+<body>
+	<form>
+<fieldset>
+	<table align="center">
+			<legend>Información general</legend>
+
+			<tr>
+				<th> <label for="nombre">Nombre:</label></th>
+				<th> <label for="paterno">Apellido Paterno:</label></th>
+				<th> <label for="materno">Apellido Materno:</label></th>
+			</tr>
+			<tr>
+			<td><input type="text" name="nombre" maxlength="25" placeholder="Nombre"></td>
+
+			<td><input type="text" name="paterno" maxlength="25" placeholder="Apellido paterno"></td>
+
+			<td><input type="text" name="materno" maxlength="25" placeholder="Apellido materno"> </td></br>
+			</tr>
+
+			<tr> 
+			<th><label for="user">Nombre de usuario:</label></th>
+			<th><label for="contra">Contraseña:</label></th>
+			<th><label for="fechan">Fecha De Nacimiento:</label></th>
+			</tr>
+
+			<tr>
+			<td><input type="text" name="user" maxlength="25" placeholder="Usuario"></td>
+
+			<td><input type="text" name="contra" maxlength="25" placeholder="Password"></td>
+
+			<td align="center"><input type="date" name="fechan" id="fechan"></td></br>
+		</tr>
+		</table>
+</fieldset>
+<fieldset>
+	<table align="center">
+			<legend>Datos de facturación</legend>
+			<tr>
+			<th><label for="pais">País:</label></th>
+			<th><label for="ciudad">Ciudad:</label></th>
+			<th><label for="calle">Calle:</label></th></br>
+			</tr>
+
+			<tr>
+			<td><input type="text" name="pais" id="Pais" list="pais">
+			<datalist id="pais">
+			<option>México</option>
+			<option>USA</option> 
+			<option>Canadá</option>
+			</datalist></td>
+
+			<td><input type="text" name="ciudad" id="Ciudad" list="ciudad">
+			<datalist id="ciudad">
+			<option>San Luis Potosí</option>
+			<option>Matehuala</option> 
+			<option>Cd. Valles</option>
+			</datalist></td>
+
+			<td><input type="text" name="calle" placeholder="Calle"></tr></br>
+
+			<tr>
+			<th><label for="casa">Número de casa:</label></th>
+			<th><label for="colo">Colonia:</label></th>
+			<th><label for="mail">E-mail:</label></th>
+			</tr>
+			<tr>
+			<td><input type="text" name="casa" maxlength="25" placeholder="Numero Exterior"></td>
+
+			<td><input type="text" name="colo" maxlength="25" placeholder="Colonia"></td>
+
+			<td><input type="text" name="mail" maxlength="25" placeholder="E-mail"> </td></br>
+			</tr>
+			<tr>
+			<th><label for="rfc">RFC:</label></th>
+			<th><label for="cp">C.P:</label></th>
+			</tr>
+
+			<tr>
+			<td><input type="text" name="rfc" maxlength="25" placeholder="RFC"></td>
+
+			<td><input type="text" name="cp" maxlength="25" placeholder="Código Postal"></td>
+
+			<td align="center">
+				<input type="submit" value="enviar">
+				<input type="reset" value="Reset">
+			</td>
+
+			</tr>
+	</table>
+			
+</fieldset>
+</form>
+</body>
+</html>
