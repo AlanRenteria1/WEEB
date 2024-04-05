@@ -1,0 +1,21 @@
+.eich1{
+	font-family: arial, sans-serif;
+	font-style: italic;
+}
+.eich4{
+	font-family: times new roman, serif;
+	font-style: italic;
+}
+.reco{
+	width: 100%;
+	height: 30%;
+}
+.botonazo{
+	background-color: #66BBFF;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: times new roman, serif;
+	font-style: italic;
+	width: 50%;
+	height: 30%;
+}
