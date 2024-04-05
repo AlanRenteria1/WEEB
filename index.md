@@ -16,6 +16,8 @@
 			<li>Parcial 2</li>
 			<ol type="1">
 				<li><a href="por.html">Portafolio</a></li>
+    				<li><a href="prac2por.html">Portafolio pt2 </a></li>
+				<li><a href="omaigaad.css">Css port pt2</a></li>
 			</ol>
 			<li>Parcial 3</li>
 			<li>Proyecto final</li>
