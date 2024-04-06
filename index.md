@@ -18,6 +18,8 @@
 				<li><a href="por.html">Portafolio</a></li>
     				<li><a href="prac2port.html">Portafolio pt2 </a></li>
 				<li><a href="omaigaad.css">Css port pt2</a></li>
+				<li><a href="Prac3.html">Practica 3</a></li>
+				<li><a href="Prac3.css">Css de Practica 3</a></li>
 			</ol>
 			<li>Parcial 3</li>
 			<li>Proyecto final</li>
