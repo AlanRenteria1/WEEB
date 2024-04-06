@@ -1,0 +1,101 @@
+.omagaa{
+  font-family: "Workbench", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0
+}
+ 
+.pra3{
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+ 
+ 
+#t1{
+	position: relative ;
+	left: 500px;
+	background-color: lightblue;
+	border: 3px solid black;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	text-align: center	;
+	width: 200px;
+}
+ 
+#t2{
+	position: relative ;
+	left: 500px;
+	background-color: #9BFFBF;
+	border: 3px solid darkblue;
+	border-radius: 25px;
+	text-align: center;
+	width: 200px;
+}
+ 
+#t2:hover{
+	position: relative ;
+	left: 500px;
+	background-color: #9BFFBF;
+	border: 3px solid darkblue;
+	border-radius: 25px;
+	text-align: center;
+	transform: skew(160deg);
+	transform: -moz-skew(160deg);
+	transform: -webkit-skew(160deg);
+	width: 200px;
+ 
+}
+ 
+#t3{
+	position: relative ;
+	left: 500px;
+	background-color: #FFEC9B;
+	border: 3px solid black;
+	border-radius: 25px;
+	text-align: center;
+	width: 200px;
+	box-shadow: red	7px 8px;
+	-moz-box-shadow: red	7px 8px;
+	-webkit-box-shadow: red	7px 8px;
+	text-align: center	;
+}
+ 
+#t3:hover{
+	position: relative ;
+	left: 500px;
+	background-color: #FFEC9B;
+	border: 3px solid black;
+	border-radius: 25px;
+	text-align: center;
+	transform: skew(160deg);
+	transform: -moz-skew(160deg);
+	transform: -webkit-skew(160deg);
+	box-shadow: red;	7px 8px
+	-moz-box-shadow: red	7px 8px
+	-webkit-box-shadow: red	7px 8px
+	text-align: center	;
+	width: 200px;
+ 
+}
+ 
+ 
+#he{
+ 
+	background-color: #C67FFF;
+	border: 3px solid black;
+	border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	text-align: center	;
+ 
+}
+ 
+.vinc{
+	text-decoration: none	;
+	color: black;
+}
