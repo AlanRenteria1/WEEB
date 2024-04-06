@@ -20,6 +20,8 @@
 				<li><a href="omaigaad.css">Css port pt2</a></li>
 				<li><a href="Prac3.html">Practica 3</a></li>
 				<li><a href="Prac3.css">Css de Practica 3</a></li>
+				<li><a href="Exa2.html.css">Examen 2do parcial</a></li>
+				<li><a href="Exa2.css">Examen 2do par. Css</a></li>
 			</ol>
 			<li>Parcial 3</li>
 			<li>Proyecto final</li>
