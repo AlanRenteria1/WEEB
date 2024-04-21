@@ -1,0 +1,16 @@
+
+	.form{
+		width: 99%;
+		height: 40px;
+		}
+		.bot{
+		width: 99%;
+		height: 40px;
+		background-color: #F49B9B;
+		}
+		.caja{
+		width: 100%;
+		height: 200px;
+		background-color: lightgrey;
+		border: 1px solid black;
+	}
